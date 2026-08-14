@@ -77,3 +77,12 @@ header{
     object-position: center;
     margin-bottom: 10px;
 }
+
+.cara{
+    width: 100%;
+
+    height: max-content;
+    object-fit: cover;
+    object-position: center;
+    margin-bottom: 10px;
+}
